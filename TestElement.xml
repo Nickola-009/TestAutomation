@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<TestInputy>
-	<GoogleSearch>
-		<searchbox>//input[@name='q']</searchbox>
-	</GoogleSearch>
-</TestInputy>
