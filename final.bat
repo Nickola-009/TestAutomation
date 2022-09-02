@@ -1,1 +1,0 @@
-java -cp ".;C:\Users\Nikhill\.p2\pool\plugins" org.testng.TestNG testng.xml
